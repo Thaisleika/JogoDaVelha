@@ -1,0 +1,15 @@
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.deps.json
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.runtimeconfig.json
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.dll
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.pdb
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.csproj.AssemblyReference.cache
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.AssemblyInfoInputs.cache
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.AssemblyInfo.cs
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.dll
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/obj/Debug/net7.0/refint/JogoDaVelha.dll
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.pdb
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.genruntimeconfig.cache
+/Users/user/Desktop/Estudos/jogoDaVelha/JogoDaVelha/obj/Debug/net7.0/ref/JogoDaVelha.dll
